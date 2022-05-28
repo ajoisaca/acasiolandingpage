@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/acasiolandingpage/static/css/main.b8d858fd.css",
+    "main.js": "/acasiolandingpage/static/js/main.6b16c296.js",
+    "static/js/787.58eaad16.chunk.js": "/acasiolandingpage/static/js/787.58eaad16.chunk.js",
+    "static/media/naruto4.jpg": "/acasiolandingpage/static/media/naruto4.d5bdfd89c46b7edd0749.jpg",
+    "static/media/naruto1.png": "/acasiolandingpage/static/media/naruto1.2612d4849f5bc51905ce.png",
+    "static/media/naruto2.jpg": "/acasiolandingpage/static/media/naruto2.a5bc7f3e5c37b704f8bc.jpg",
+    "index.html": "/acasiolandingpage/index.html",
+    "main.b8d858fd.css.map": "/acasiolandingpage/static/css/main.b8d858fd.css.map",
+    "main.6b16c296.js.map": "/acasiolandingpage/static/js/main.6b16c296.js.map",
+    "787.58eaad16.chunk.js.map": "/acasiolandingpage/static/js/787.58eaad16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8d858fd.css",
+    "static/js/main.6b16c296.js"
+  ]
+}
